@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Ready to get right catted up? ${prefix} got u
+  Ready to get right catted up? ${PREFIX} got u
   <!-- END -->
 
   </div>
